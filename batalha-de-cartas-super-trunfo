@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main(){
+    printf("Batalha de Cartas no Super Trunfo!\n");
+    printf("Novo commit\n");
+
+}
